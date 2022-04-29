@@ -1,5 +1,5 @@
 - 👋 Saludos. Soy @p-medelmonje
-- 👀 Estoy interesado en aprender Inteligencia Artificial y Machine Learning
+- 👀 Estoy interesado en aprender Inteligencia Artificial y Machine Learning. También me interesa aprender a programar microcontroladores con Micropython.
 - 🌱 Actualmente estoy aprendiendo Python 
 - 📫 Contacto:
 -   - medelmonje0913@vivaldi.net
